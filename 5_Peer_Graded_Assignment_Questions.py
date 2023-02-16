@@ -125,11 +125,10 @@ app.layout = html.Div(children=[
                                         html.Div([ ], id='plot2'),
                                         html.Div([ ], id='plot3')
                                 ], style={'display': 'flex'}),
-                                ])
+  
                                 # TASK3: Add a division with two empty divisions inside. See above disvision for example.
                                 # Enter your code below. Make sure you have correct formatting.
-                               
-                                ])
+                              
                                 html.Div([
                                         html.Div([ ], id='plot4'),
                                         html.Div([ ], id='plot5')
